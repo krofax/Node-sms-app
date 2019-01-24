@@ -1,12 +1,12 @@
 {
-  "name": "nodetextapp",
+  "name": "nodesmsapp",
   "version": "1.0.0",
   "description": "Send SMS from Node",
   "main": "app.js",
   "scripts": {
     "start": "node app"
   },
-  "author": "Brad Traversy",
+  "author": "Blessing Krofegha",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.18.2",
